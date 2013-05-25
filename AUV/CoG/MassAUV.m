@@ -16,6 +16,9 @@ classdef MassAUV
         function plot(obj, varargin)
             plot(obj.x, obj.y, varargin{:});
         end
+        function plot3(obj, varargin)
+            plot3(obj.x, obj.y, obj.z, varargin{:});
+        end
     end
     
 end
