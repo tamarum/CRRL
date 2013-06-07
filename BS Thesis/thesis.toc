@@ -1,4 +1,5 @@
 \contentsline {chapter}{\numberline {1}Introduction}{4}
-\contentsline {chapter}{\numberline {2}Algorithm}{6}
+\contentsline {chapter}{\numberline {2}Path Planning Algorithm}{6}
 \contentsline {chapter}{\numberline {3}Platform}{8}
 \contentsline {chapter}{\numberline {4}Simulation}{10}
+\contentsline {chapter}{\numberline {5}Results}{11}
