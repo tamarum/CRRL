@@ -1,8 +1,29 @@
 \contentsline {chapter}{\numberline {1}Introduction}{4}
-\contentsline {chapter}{\numberline {2}Path Planning Algorithm}{7}
-\contentsline {chapter}{\numberline {3}Platform}{9}
-\contentsline {section}{\numberline {3.1}Distance Sensors}{9}
-\contentsline {section}{\numberline {3.2}Programming}{10}
-\contentsline {chapter}{\numberline {4}Simulation}{15}
-\contentsline {chapter}{\numberline {5}Results}{16}
-\contentsline {chapter}{\numberline {A}Code}{17}
+\contentsline {chapter}{\numberline {2}GODZILA Path Planning Algorithm}{7}
+\contentsline {section}{\numberline {2.1}Virtual Sensors}{10}
+\contentsline {chapter}{\numberline {3}Platform}{13}
+\contentsline {section}{\numberline {3.1}Distance Sensors}{13}
+\contentsline {section}{\numberline {3.2}Programming}{14}
+\contentsline {chapter}{\numberline {4}Simulation}{19}
+\contentsline {section}{\numberline {4.1}Kinematics}{19}
+\contentsline {section}{\numberline {4.2}Sensor Model}{21}
+\contentsline {section}{\numberline {4.3}GODZILA Path Planner}{22}
+\contentsline {section}{\numberline {4.4}Results}{23}
+\contentsline {chapter}{\numberline {5}Experimental Results}{25}
+\contentsline {chapter}{\numberline {6}Conclusion}{28}
+\contentsline {chapter}{\numberline {A}Simulation Code}{29}
+\contentsline {section}{\numberline {A.1}Simulator}{29}
+\contentsline {section}{\numberline {A.2}Map}{32}
+\contentsline {section}{\numberline {A.3}Robot Plotter}{33}
+\contentsline {section}{\numberline {A.4}Navigation}{33}
+\contentsline {section}{\numberline {A.5}Occlusion Force Generator}{35}
+\contentsline {section}{\numberline {A.6}Force Plotter}{36}
+\contentsline {section}{\numberline {A.7}Trap Detector}{36}
+\contentsline {section}{\numberline {A.8}Stuck Timer Class}{37}
+\contentsline {section}{\numberline {A.9}Sensor Model}{37}
+\contentsline {section}{\numberline {A.10}Sonar Beam Plotter}{40}
+\contentsline {section}{\numberline {A.11}Pose Estimator}{40}
+\contentsline {chapter}{\numberline {B}Nao Code}{42}
+\contentsline {section}{\numberline {B.1}Main Code}{42}
+\contentsline {section}{\numberline {B.2}Robot Navigation Header}{46}
+\contentsline {section}{\numberline {B.3}Robot Navigation Implementation}{47}
