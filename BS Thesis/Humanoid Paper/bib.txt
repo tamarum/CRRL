@@ -1,0 +1,147 @@
+\bibitem{CTS09}
+J.~Chestnutt, Y.~Takaoka, K.~Suga, K.~Nishiwaki, J.~Kuffner, and S.~Kagami,
+``Biped navigation in rough environments using on-board sensing,'' in
+\emph{Proc. of the IEEE/RSJ International Conf. on Intelligent
+Robots and Systems}, (St. Louis, MO), Oct. 2009.
+
+\bibitem{YKT11}
+A.~Yamashita, M.~Kitaoka, and T.~Kaneko, ``Motion planning of biped robot
+equipped with stereo camera using grid map,'' \emph{International Jour. of
+Automation Technology}, vol.~5, no.~5, pp.~639-647, 2011.
+
+\bibitem{MCK06}
+P.~Michel, J.~Chestnutt, S.~Kagami, K.~Nishiwaki, J.~Kuffner, and T.~Kanade,
+``Online environment reconstruction for biped navigation,'' in
+\emph{Proc. of the IEEE International Conf. on Robotics and
+Automation}, (Orlando, Florida), May 2006.
+
+\bibitem{OTK05}
+R. Ozawa, Y. Takaoka, Y. Kida, K. Nishiwaki, J. Chestnutt, J. Kuffner, S.
+Kagami, H. Mizoguch, and H. Inoue, ``Using visual odometry to create 3D maps
+for online footstep planning,'' in \emph{Proc. of the IEEE International
+Conf. on Systems, Man and Cybernetics}, (Big Island, HI), Oct. 2005.
+
+\bibitem{IT10}
+F. Iida and R. Tedrake, ``Minimalistic control of biped walking in rough
+terrain,'' \emph{Autonomous Robots}, pp. 355-368, April 2010.
+
+\bibitem{CKN03}
+J. Chestnutt, J. Kuffner, K. Nishiwaki, and S. Kagami, ``Planning biped
+navigation strategies in complex environments,'' in \emph{Proc. of the
+2003 IEEE International Conf. on Humanoid Robotics}, (Karlsruhe, Germany), Sept. 2003.
+
+\bibitem{WP10}
+J.-c. Wu and Z. Popovi\'c, ``Terrain-adaptive bipedal locomotion control,''
+\emph{ACM Trans. on Graphics}, vol. 29, no. 4, July 2010.
+
+\bibitem{VSY06}
+B. Verrelst, O. Stasse, K. Yokoi, B. Vanderborght, ``Dynamically stepping over
+obstacles by the humanoid robot HRP-2,'' in \emph{Proc. of the IEEE-RAS
+International Conf. on Humanoid Robots}, (Genova, Italy), Dec. 2006.
+
+\bibitem{LAH12}
+C. Lutz, F. Atmanspacher, A. Hornung, and M. Bennewitz, ``NAO walking down a
+ramp autonomously,'' in \emph{Proc. of the IEEE/RSJ International
+Conf. on Intelligent Robots and Systems}, (Vilamoura, Portugal), Oct. 2012.
+
+\bibitem{OGH11}
+S. Oswald, A. Gorog, A. Hornung, and M. Bennewitz, ``Autonomous climbing of
+spiral staircases with humanoids,'' in \emph{Proc. of the IEEE/RSJ
+International Conf. on Intelligent Robots and Systems}, (San Francisco, CA), Sept. 2011.
+
+\bibitem{WGC07}
+E.R. Westervelt, J.W. Grizzle, C. Chevallereau, J.H. Choi, and B. Morris.  Feedback
+control of dynamic bipedal robt locomotion. \emph{CRC Press}, 2007.
+
+\bibitem{CDG08}
+C. Chevallereau, D. Djoudi, and J.W. Grizzle, ``Stable bipedal walking with
+foot rotation through direct regulation of the zero moment point'', \emph{IEEE
+Trans. on Robotics}, vol. 25, no. 2, pp.~390-401, April 2008.
+
+
+
+\bibitem{Lat91}
+J.~C. Latombe, \emph{Robot Motion Planning}.\hskip 1em plus 0.5em minus
+  0.4em\relax Norwell, MA: Kluwer Academic Publishers, 1991.
+
+\bibitem{HA92}
+Y.~K. Hwang and N.~Ahuja, ``Gross motion planning - a survey,'' \emph{ACM
+  Computing Surveys}, vol.~24, no.~3, pp. 219--291, Sep. 1992.
+
+\bibitem{RN09}
+S.~Russell and P.~Norvig, \emph{Artificial Intelligence: A Modern Approach}. Saddle River, NJ: Prentice Hall, 2009.
+
+
+  \bibitem{HNR68}
+P.~E. Hart, N.~J. Nilsson, and B.~Raphael,
+``A formal basis for the heuristic determination of minimum cost paths,''
+\emph{IEEE Trans. on Systems Science and Cybernetics},
+  vol.~SSC-4, no.~2, pp.~100--107, July 1968.  
+
+
+\bibitem{Lum88}
+V.~Lumelsky, ``On the connection between maze-searching and robot motion
+  planning algorithms,'' in \emph{Proc. of the IEEE Conf. on
+  Decision and Control}, Austin, TX, Dec. 1988, pp. 2270--2275.
+
+
+\bibitem{NMU99}
+H.~Noborio, Y.~Maeda, and K.~Urakawa, ``Three or more dimensional sensor-based
+  path-planning algorithm {HD-I},'' in \emph{Proc. of the IEEE
+  International Conf. on Intelligent Robots and Systems}, Kyongju, Korea,
+  Oct. 1999, pp. 1699--1706.
+
+\bibitem{Kha85}
+O.~Khatib, ``Real-time obstacle avoidance for manipulators and mobile robots,''
+  in \emph{Proc. of the IEEE International Conf. on Robotics and
+  Automation}, March 1985, pp. 500--505.
+
+\bibitem{RK92}
+E.~Rimon and D.~E. Koditschek, ``Exact robot navigation using artificial
+  potential functions,'' \emph{IEEE Trans. on Robotics and Automation},
+  vol.~8, no.~5, pp. 501--518, Oct. 1992.
+
+
+\bibitem{Ste94}
+A.~Stentz, ``Optimal and efficient path planning for partially-known
+  environments,'' in \emph{Proc. of the IEEE International Conf. on
+  Robotics and Automation}, San Diego, CA, May 1994, pp. 3310--3317.
+
+
+\bibitem{KSLO96}
+L.~E. Kavraki, P.~Svestka, J.-C. Latombe, and M.~H. Overmars, ``Probabilistic
+  roadmaps for path planning in high-dimensional configuration spaces,''
+  \emph{IEEE Trans. on Robotics and Automation}, vol.~12, no.~4, pp.
+  566--580, Aug. 1996.
+
+
+\bibitem{KK05b_jirs}
+P.~Krishnamurthy and F.~Khorrami, ``{GODZILA}: A low-resource algorithm for
+  path planning in unknown environments,'' \emph{Jour. of Intelligent and Robotic Systems}, vol.~48, no.~3, pp.~357--373, March 2007.
+
+  \vspace*{0.01in}
+\bibitem{KKN08}
+P.~Krishnamurthy, F.~Khorrami, and T.~L.~Ng, ``Obstacle avoidance for unmanned sea surface vehicles: a hierarchical approach,'' in \emph{Proc. of the 2008 IFAC World Congress}, Seoul, Korea, July 2008.
+
+  \vspace*{0.01in}
+\bibitem{KK09} 
+F. Khorrami and P. Krishnamurthy, ``A hierarchical path planning and obstacle
+avoidance system for an autonomous underwater vehicle,'' in \emph{Proc.
+of the American Control Conf.}, (St. Louis, MO), June 2009.
+
+  \vspace*{0.02in}
+\bibitem{KK11} 
+P. Krishnamurthy and F. Khorrami, ``A hierarchical control and obstacle
+avoidance system for Unmanned Sea Surface Vehicles,'' in \emph{Proc. of
+the IEEE Conf. on Decision and Control/ European Control Conf.},
+(Orlando, FL), pp. 2070--2075, Dec. 2011.
+
+  \vspace*{0.03in}
+\bibitem{NAO}
+NAO Humanoid Robot. \url{http://www.aldebaran-robotics.com}.
+
+
+  \vspace*{0.03in}
+\bibitem{NAO_system}
+Components of NAO Humanoid Robot. \url{http://www.aldebaran-robotics.com/documentation/family/nao\_h25/index\_h25.html}.
+\end{thebibliography}
